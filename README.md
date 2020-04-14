@@ -12,7 +12,7 @@ The site was made using the [Modern Business](http://startbootstrap.com/template
 * Diary page - done
 * Contact page - done
 * Gallery page - layout done but photos need updating
-    * Separate gallery pages for particular events?
+    * Separate gallery pages for particular events or each year?
     * Add gallery-3 page
 * Blog - mostly done
 * _Other pages - not done_
@@ -24,3 +24,7 @@ The site was made using the [Modern Business](http://startbootstrap.com/template
 * Blog posts: non-collapsible navbar is slightly taller than the normal navbar
 * Footer: on extra-small screens the footer text extends over 2 lines
     * To do: change footer text for xs screens to '(c) Whitethorn Morris 2020'
+
+## Copyright
+
+All content (including photos) is copyright (c) Whitethorn Morris 2020, and may not be reproduced without permission.
